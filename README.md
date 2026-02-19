@@ -5,7 +5,7 @@ This project analyzes road traffic crashes across all Nigerian states from Q4 20
 
 ## Tools & Technologies
 - **Python** (Pandas, Matplotlib) – data cleaning, transformation, and visualizations  
-- **Power BI** – interactive dashboard with filters, drill-through, and custom tooltips  
+- **Power BI** – interactive dashboard with filters and custom tooltips  
 
 ## Highlights
 - Developed an **interactive dashboard** to explore crash trends by state, year, and contributing factors  
