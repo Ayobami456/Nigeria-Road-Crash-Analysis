@@ -1,4 +1,4 @@
-=# Nigeria Road Traffic Crash Analysis (2020–2024)
+## Nigeria Road Traffic Crash Analysis (2020–2024)
 
 ## Overview
 This project analyzes road traffic crashes across all Nigerian states from Q4 2020 to Q1 2024. It uncovers trends in crashes, fatalities, injuries, and contributing factors. The interactive dashboard allows exploration of trends across states and time periods, providing actionable insights for policymakers, traffic safety analysts, and researchers.
